@@ -27,8 +27,7 @@ function calculateTip() {
     document.getElementById("each").style.display = "none";
 
     document.getElementById("calculate").onclick = function()
-    {
+    {    
         calculateTip();
-    
+    }
 };
-}
